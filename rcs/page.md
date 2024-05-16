@@ -20,3 +20,5 @@ layout:
 
 <img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
+<img src="../.gitbook/assets/small.GIF" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/big.gif" alt="" class="gitbook-drawing">
