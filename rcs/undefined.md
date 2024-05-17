@@ -9,25 +9,10 @@ RCS 기업 메시지 또한 지정한 대행사를 통하여 발송할 수 있�
 <figure><img src="../.gitbook/assets/feature_company_msg_01.5a5bed2b.png" alt=""><figcaption></figcaption></figure>
 
 ```
-ㅁㄴㅇ리ㅏ민이러미ㅏㄴ얼ㅁㄴㅇㄹ
-ㄴㄴㅇ
 
-
-ㅇㅇ
-
-ㅁㄴㅇㄹㅁㄴㅇㄹ
-
-
+테스트 테스트
 
 ```
 
 <figure><img src="../.gitbook/assets/feature_company_msg_02.03e25ea1.png" alt=""><figcaption></figcaption></figure>
-
-```html
-<div class="custom-box">
-    <span class="page-label">PAGE</span>
-    <span class="page-title">3. 발송 과정 안내</span>
-    <span class="arrow">➔</span>
-</div>
-```
 
