@@ -29,17 +29,5 @@ RCS 기업 메시지 또한 지정한 대행사를 통하여 발송할 수 있�
     <span class="page-title">3. 발송 과정 안내</span>
     <span class="arrow">➔</span>
 </div>
-
 ```
 
-<details>
-
-<summary><a data-footnote-ref href="#user-content-fn-1">asdfadsfd</a></summary>
-
-
-
-</details>
-
-
-
-[^1]: [undefined.md](undefined.md "mention")
