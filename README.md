@@ -14,7 +14,7 @@ layout:
 
 # 카카오비즈니스 가이드
 
-**RCS Biz Center**를 똑똑하게 이용하는 법\
+**RCS Biz Center**를 똑똑하게 이용하는 법    ㅡㅓㅓㅓㅏ\
 이용가이드로 확인해 보세요!
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
