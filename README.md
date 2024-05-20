@@ -81,3 +81,11 @@ layout:
 {% hint style="danger" %}
 dsfasdafsdf
 {% endhint %}
+
+<details>
+
+<summary><a data-mention href="rcs/">rcs</a></summary>
+
+/
+
+</details>
