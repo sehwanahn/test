@@ -33,20 +33,47 @@ layout:
 
 <figure><img src=".gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
 
-<details>
+카카오톡 채널은 고객과 커뮤니케이션을 하는 카카오톡 내비즈니스 홈입니다. \
+[카카오톡 채널 관리자센터](https://center-pf.kakao.com/profiles)에서 손쉽게 당신의 비즈니스 홈을 만들고, 활용할 수 있습니다.
 
-<summary><a data-footnote-ref href="#user-content-fn-1"><code>카카오</code></a></summary>
+## Create a new user
 
+<mark style="color:green;">`POST`</mark> `/users`
 
+\<Description of the endpoint>
 
-</details>
+**Headers**
 
-<details>
+| Name          | Value              |
+| ------------- | ------------------ |
+| Content-Type  | `application/json` |
+| Authorization | `Bearer <token>`   |
 
-<summary>[아이] ㅇㅇㅇㅇㅇ</summary>
+**Body**
 
+| Name   | Type   | Description      |
+| ------ | ------ | ---------------- |
+| `name` | string | Name of the user |
+| `age`  | number | Age of the user  |
 
+**Response**
 
-</details>
+{% tabs %}
+{% tab title="200" %}
+```json
+{
+  "id": 1,
+  "name": "John",
+  "age": 30
+}
+```
+{% endtab %}
 
-[^1]: 
+{% tab title="400" %}
+```json
+{
+  "error": "Invalid request"
+}
+```
+{% endtab %}
+{% endtabs %}
