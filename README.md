@@ -1,10 +1,9 @@
 ---
-description: 당신의 비즈니스에 도움이 되는 다양한 자료를 만나보세요.
 layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -24,9 +23,30 @@ layout:
 
 
 
-## 비즈니스 성공의 첫 단계
+## **RCS Biz Center 어디까지 활용할 수 있`나요`**
 
-<table data-header-hidden><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f604">😄</span>카카오비즈니스 시작하기</td><td></td><td></td></tr><tr><td><strong>STEP 1</strong>    <strong>카카오 계정을 만드는 방법을 알아보세요  자세히기</strong></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+| 🔍 카카오비즈니스 시작하기                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| **STEP 1 카카오 계정을 만드는 방법을 알아보세요** [자세히보기 ＞](https://kakaobusiness.gitbook.io/main/undefined/untitled)   |
+| **STEP 2 카카오톡 비즈니스 채널을 만들어보세요** [자세히보기 ＞](https://kakaobusiness.gitbook.io/main/channel/start)         |
+| **STEP 3 광고를 연결하여 더 많은 사용자에게 도달해보세요** [자세히보기 ＞](https://kakaobusiness.gitbook.io/main/ad/moment/start) |
 
-| 🔍카카오비즈니스 시작하기 |
-| -------------- |
+<figure><img src=".gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary><a data-footnote-ref href="#user-content-fn-1"><code>카카오</code></a></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>[아이] ㅇㅇㅇㅇㅇ</summary>
+
+
+
+</details>
+
+[^1]: 
