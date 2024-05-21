@@ -25,11 +25,7 @@ layout:
 
 ## **RCS Biz Center 어디까지 활용할 수 있`나요`**
 
-| 🔍 카카오비즈니스 시작하기                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| **STEP 1 카카오 계정을 만드는 방법을 알아보세요** [자세히보기 ＞](https://kakaobusiness.gitbook.io/main/undefined/untitled)   |
-| **STEP 2 카카오톡 비즈니스 채널을 만들어보세요** [자세히보기 ＞](https://kakaobusiness.gitbook.io/main/channel/start)         |
-| **STEP 3 광고를 연결하여 더 많은 사용자에게 도달해보세요** [자세히보기 ＞](https://kakaobusiness.gitbook.io/main/ad/moment/start) |
+<table data-header-hidden><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>🔍 카카오비즈니스 시작하기</td><td></td></tr><tr><td><strong>STEP 1 카카오 계정을 만드는 방법을 알아보세요</strong> <a href="https://kakaobusiness.gitbook.io/main/undefined/untitled">자세히보기 ＞</a></td><td><a href="rcs/">rcs</a></td></tr><tr><td><strong>STEP 2 카카오톡 비즈니스 채널을 만들어보세요</strong> <a href="https://kakaobusiness.gitbook.io/main/channel/start">자세히보기 ＞</a></td><td></td></tr><tr><td><strong>STEP 3 광고를 연결하여 더 많은 사용자에게 도달해보세요</strong> <a href="https://kakaobusiness.gitbook.io/main/ad/moment/start">자세히보기 ＞</a></td><td></td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
 
